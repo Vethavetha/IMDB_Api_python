@@ -26,7 +26,7 @@ py setup.py install
 		
  ### getRatingByImdbId(IMDB_ID ):
 		
-		which returns the rating of the requsted movie by IMDB ID as a prameter
+		https://t.me/CheckOTTBot?start=tt0255426
 
  ### getDirector(movieName):
 		
