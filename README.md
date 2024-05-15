@@ -49,8 +49,41 @@ py setup.py install
  #### all: if set to True returns all the cast list (default "False")
 
  ### getSummary(movieName ):
-		
-		which returns the summary of the requsted movie by passing Movie Name as a parameter
+	# Example PromptTask to get a movie name
+
+#
+
+movie_task = PromptTask(
+
+    "What is this movie: {{ descr }}",
+
+    context = {                        
+
+        "descr": "princess and farmhand named Wesley" 
+
+    },
+
+    id="movie_id"                      # task id can be referenced by other tasks
+
+)
+
+
+
+# This ToolkitTask works with the output of the previous task, and can use tools.
+
+#
+
+describe_task = ToolkitTask(
+
+    "Get the description of this movie: {{ parent_outputs['movie_id'] }}",       
+
+    tools = [                          
+
+        WebScraper()
+
+    ],
+
+    id='describe_id')
 
  ### getSummaryByImdbId(IMDB_ID ):
 		
