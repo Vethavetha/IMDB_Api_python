@@ -5,17 +5,18 @@
 ## Install
 
 ```bash
-pip install IMDBAPI
+install
+https://www.google.com/search?client=ms-android-vivo-terr1-rso2&sca_esv=896ca77a4b5de4aa&sca_upv=1&hl=en-US&cs=1&sxsrf=ADLYWIKPsQWSvWkfCXIu96CIbUwwHrJFFQ:1715762625303&q=bash+%22install%22+imdb&sa=X&ved=2ahUKEwia27LuoY-GAxV6d2wGHV4zCbUQ5t4CegQIMhAB&biw=393&bih=741&dpr=2.75BAPI
 ```
 
 ## windows
-```bash
-py -m pip install IMDBAPI
+imbapi
+https://www.google.com/search?client=ms-android-vivo-terr1-rso2&sca_esv=896ca77a4b5de4aa&sca_upv=1&hl=en-US&cs=1&sxsrf=ADLYWIKf-gPESa3FuTDIm1uNqJ3WYlkLWA:1715762695576&q=py-m+install+%22imbapi%22&sa=X&ved=2ahUKEwjwgPSPoo-GAxWRS2wGHUZuCO0Q5t4CegQILxAB&biw=393&bih=741&dpr=2.75
 ```
 
 ## with setup.py
-```bash
-py setup.py install
+GitHubhttps://github.com › pipenv › issuesHow to keep setup.py install_requires and Pipfile in sync #1263
+https://www.google.com/url?q=https://github.com/pypa/pipenv/issues/1263&sa=U&ved=2ahUKEwicn6DYoo-GAxU8SmwGHWpKDLE4ChAWegQIBBAB&usg=AOvVaw1sEhcPCJSvfwbhaCWzkd2f
 ```
 
 ## API
