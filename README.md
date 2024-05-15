@@ -9,9 +9,7 @@ pip install IMDBAPI
 ```
 
 ## windows
-```bash
-py -m pip install IMDBAPI
-```
+pip install Windows10
 
 ## with setup.py
 ```bash
