@@ -3,10 +3,7 @@
 
 
 ## Install
-
-```bash
-pip install IMDBAPI
-```
+$ npm install unirest
 
 ## windows
 ```bash
