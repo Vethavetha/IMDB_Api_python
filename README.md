@@ -4,8 +4,8 @@
 
 ## Install
 
-```bash
-pip install IMDBAPI
+bash
+https://www.google.com/search?client=ms-android-vivo-terr1-rso2&sca_esv=0004a85f2004c9bf&sca_upv=1&hl=en-US&cs=1&sxsrf=ADLYWILq-nVQSBUg61XVcb-ewcN8FoNSgg:1715765408996&q=%22bash%22+%0Apip+install+IMDBAPI+GitHub&sa=X&ved=2ahUKEwi_8-GdrI-GAxXe1TgGHSXCAlYQ5t4CegQIHxAB&biw=393&bih=741&dpr=2.75
 ```
 
 ## windows
