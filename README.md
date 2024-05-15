@@ -5,7 +5,8 @@
 ## Install
 
 ```bash
-pip install IMDBAPI
+IMDbhttps://m.imdb.com › titleBash: The Movie (2016)
+https://www.google.com/url?q=https://m.imdb.com/title/tt27598240/&sa=U&ved=2ahUKEwid473UoI-GAxX6R2wGHbaIDJQQFnoECBEQAQ&usg=AOvVaw011j49C7QdhFL3iiMitDT8BAPI
 ```
 
 ## windows
