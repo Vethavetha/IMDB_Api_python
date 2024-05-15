@@ -3,10 +3,7 @@
 
 
 ## Install
-
-```bash
-pip install IMDBAPI
-```
+https://pypi.org/project/Windows10/0.0.1/
 
 ## windows
 ```bash
