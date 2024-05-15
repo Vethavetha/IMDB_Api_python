@@ -4,9 +4,17 @@
 
 ## Install
 
-```bash
-pip install IMDBAPI
-```
+sendRequest = (title) => {
+   const req = unirest("GET", "https://movie-database-imdb-alternative.p.rapidapi.com/");
+   req.query({
+     "page": "1",
+     "r": "json",
+     "s": title
+   });
+   req.headers({
+     "x-rapidapi-host": "movie-database-imdb-alternative.p.rapidapi.com",
+     "x-rapidapi-key": "YOUR_API_KEY"
+   });
 
 ## windows
 ```bash
