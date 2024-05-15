@@ -4,8 +4,8 @@
 
 ## Install
 
-```bash
-pip install IMDBAPI
+How To Use the IMDb API (2021) [Tutorial] | RapidAPI
+https://www.google.com/url?q=https://rapidapi.com/blog/how-to-use-imdb-api/&sa=U&ved=2ahUKEwi097XPrI-GAxUFyDgGHWK3AlMQFnoECA8QBQ&usg=AOvVaw0ScZJXrCwprEKXxOHFTy9u
 ```
 
 ## windows
