@@ -20,17 +20,17 @@ py setup.py install
 
 ## API
 		
- ### getRating(movieName ):
-		
-		which returns the rating of the requsted movie by passing Movie Name as a parameter
+ ### getRating(movieName 
+ GitHubhttps://github.com › blob › masterFirstRatings.java
+https://www.google.com/url?q=https://github.com/taochenshh/A-DIY-Movie-Recommender-System-with-Collaborative-Filtering/blob/master/FirstRatings.java&sa=U&ved=2ahUKEwiBpNKno4-GAxXXR2wGHSXbCIoQFnoECBQQAQ&usg=AOvVaw1SwuEaamF0M-lN7inPwnzJ
 		
  ### getRatingByImdbId(IMDB_ID ):
 		
 		which returns the rating of the requsted movie by IMDB ID as a prameter
 
  ### getDirector(movieName):
-		
-		which returns the Directors name of the requsted movie by passing Movie Name as a parameter
+ IMDB_ID
+https://www.google.com/search?client=ms-android-vivo-terr1-rso2&sca_esv=0004a85f2004c9bf&sca_upv=1&hl=en-US&cs=1&sxsrf=ADLYWIKPbkIWx23oP5GuKhIfujBtL6SoEw:1715763086086&q=get+Rating+By+Imdb+Id(+%22IMDB_ID%22&sa=X&ved=2ahUKEwi-347Ko4-GAxXmfWwGHQOVAdwQ5t4CegQIJBAB&biw=393&bih=741&dpr=2.75
 
  ### getDirectorByImdbId(IMDB_ID ):
 		
