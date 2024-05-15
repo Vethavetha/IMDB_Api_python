@@ -4,8 +4,8 @@
 
 ## Install
 
-```bash
-pip install IMDBAPI
+Stack Overflowhttps://stackoverflow.com › bash-p..."bash: pip: command not found" when using "pip install ..."
+https://www.google.com/url?q=https://stackoverflow.com/questions/62071515/bash-pip-command-not-found-when-using-pip-install&sa=U&ved=2ahUKEwirwLWQq4-GAxVpUGcHHV_CBT8QFnoECCsQAQ&usg=AOvVaw1nTz1aqS2U_0Rybuywj0vP
 ```
 
 ## windows
