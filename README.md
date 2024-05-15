@@ -27,7 +27,8 @@ py setup.py install
  ### getRatingByImdbId(IMDB_ID ):
 		
 		which returns the rating of the requsted movie by IMDB ID as a prameter
-
+IMDB API
+https://imdb-api.com/api key
  ### getDirector(movieName):
 		
 		which returns the Directors name of the requsted movie by passing Movie Name as a parameter
