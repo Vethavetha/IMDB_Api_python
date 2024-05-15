@@ -5,7 +5,8 @@
 ## Install
 
 ```bash
-pip install IMDBAPI
+IMDB.com
+https://www.imdb.com
 ```
 
 ## windows
