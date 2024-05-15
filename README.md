@@ -4,14 +4,10 @@
 
 ## Install
 
-```bash
-pip install IMDBAPI
-```
+
 
 ## windows
-```bash
-py -m pip install IMDBAPI
-```
+https://pypi.org/project/imdb-extract/o
 
 ## with setup.py
 ```bash
